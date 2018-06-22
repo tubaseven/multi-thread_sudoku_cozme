@@ -1,0 +1,5 @@
+c:\Users\seven\OneDrive\Belgeler\visual studio 2013\Projects\Yazlab_1.2\Test\bin\Debug\Test.exe.config
+c:\Users\seven\OneDrive\Belgeler\visual studio 2013\Projects\Yazlab_1.2\Test\bin\Debug\Test.exe
+c:\Users\seven\OneDrive\Belgeler\visual studio 2013\Projects\Yazlab_1.2\Test\bin\Debug\Test.pdb
+c:\Users\seven\OneDrive\Belgeler\visual studio 2013\Projects\Yazlab_1.2\Test\obj\Debug\Test.exe
+c:\Users\seven\OneDrive\Belgeler\visual studio 2013\Projects\Yazlab_1.2\Test\obj\Debug\Test.pdb

@@ -1,0 +1,9 @@
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\bin\Debug\Yazlab_1.2.exe.config
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\bin\Debug\Yazlab_1.2.exe
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\bin\Debug\Yazlab_1.2.pdb
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1.2.csprojResolveAssemblyReference.cache
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1._2.Form1.resources
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1._2.Properties.Resources.resources
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1.2.csproj.GenerateResource.Cache
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1.2.exe
+c:\users\seven\onedrive\belgeler\visual studio 2013\Projects\Yazlab_1.2\Yazlab_1.2\obj\Debug\Yazlab_1.2.pdb
